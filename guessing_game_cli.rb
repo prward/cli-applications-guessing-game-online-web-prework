@@ -10,6 +10,7 @@ end
 if user input != roll
   puts "Sorry! The computer guessed #{roll}."
 elsif user_input == roll
-puts 
+puts "You guessed the correct number!"
+end
 
 end
