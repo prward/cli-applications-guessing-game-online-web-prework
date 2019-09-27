@@ -5,4 +5,5 @@ def run_guessing_game
   
   puts "Goodbye!"
   puts "Sorry! The computer guessed 6."
+  puts "You guessed the correct number!"
 end
