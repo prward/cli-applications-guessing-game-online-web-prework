@@ -4,7 +4,6 @@ def run_guessing_game
  user_input = gets.chomp
  user_input == "exit"
    puts "Goodbye!"
-end
 if user_input != roll
   puts "Sorry! The computer guessed #{roll}."
 elsif user_input == roll
