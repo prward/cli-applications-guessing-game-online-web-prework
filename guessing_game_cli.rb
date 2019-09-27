@@ -4,4 +4,5 @@ def run_guessing_game
   input = gets.chomp
   
   puts "Goodbye!"
+  puts "Sorry! The computer guessed #{roll}."
 end
