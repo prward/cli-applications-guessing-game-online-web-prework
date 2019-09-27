@@ -5,5 +5,5 @@ if user_input == "exit"
   puts "Goodbye!"
 else
   puts "Invalid input"
-	
+	end
 end
