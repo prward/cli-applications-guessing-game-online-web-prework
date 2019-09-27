@@ -10,5 +10,5 @@ if user_input != roll
 elsif user_input == roll
 puts "You guessed the correct number!"
 end
-
+end 
 end
