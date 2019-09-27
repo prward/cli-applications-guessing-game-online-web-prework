@@ -3,5 +3,6 @@ def run_guessing_game
  roll = rand(1..6)
 if user_input == "exit"
   puts "Goodbye!"
+else
 	
 end
