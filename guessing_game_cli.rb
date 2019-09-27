@@ -6,7 +6,7 @@ def run_guessing_game
    puts "Goodbye!"
 if user_input != roll
   puts "Sorry! The computer guessed #{roll}."
-elsif user_input == roll
-puts "You guessed the correct number!"
+else
+  puts "You guessed the correct number!"
 end
 end 
