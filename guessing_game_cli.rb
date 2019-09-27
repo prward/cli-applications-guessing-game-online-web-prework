@@ -7,4 +7,7 @@ def run_guessing_game
  else 
    puts "Invalid input"
 end
+if user input != roll
+  puts "Sorry! The computer guessed #{roll}."
+
 end
