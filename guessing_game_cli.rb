@@ -4,7 +4,8 @@ def run_guessing_game
  user_input = gets.chomp
  if user_input == roll
    puts"You guessed the correct number!"
- elsif user_input !==
+ elsif user_input != roll
+  puts "Sorry! The computer guessed"
 if user_input == "exit"
   puts "Goodbye!"
 else
